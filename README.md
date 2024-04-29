@@ -15,11 +15,11 @@ Welcome to the DEPI Scholarship Repository! This repository serves as a centrali
 
 This repository is created to facilitate collaboration among DEPI scholars under the Ministry of Communication. Here, you will find various resources, including but not limited to:
 
-- Introduction to SQL Programming
-- Programming in C#
-- Programming in HTML5, JavaScript & CSS3
-- Developing ASP.NET Core MVC Web Applications
-- ASP Core Web API
+- [Introduction to SQL Programming](#introduction-to-sql-programming)
+- [Programming in C#](#programming-in-c)
+- [Programming in HTML5, JavaScript & CSS3](#programming-in-html5-javascript--css3)
+- [Developing ASP.NET Core MVC Web Applications](#developing-aspnet-core-mvc-web-applications)
+- [ASP Core Web API](#asp-core-web-api)
 
 Feel free to explore, contribute, and utilize these resources to enhance your learning and development as a DEPI scholar.
 
@@ -29,6 +29,7 @@ To get started with this repository, follow these steps:
 
 1. **Clone the Repository:** 
 git clone https://github.com/ammarGamal123/DEPI-scholarship.git
+
 2. **Explore the Contents:** 
 Familiarize yourself with the folder structure and the existing resources available in the repository.
 
@@ -40,11 +41,11 @@ Familiarize yourself with the folder structure and the existing resources availa
 
 The repository is organized into the following structure:
 
-- **Introduction_to_SQL_Programming:** Contains resources related to SQL programming.
-- **Programming_in_C_Sharp:** Includes resources related to C# programming.
-- **Programming_in_HTML5_JavaScript_CSS3:** Houses resources related to web development with HTML5, JavaScript, and CSS3.
-- **Developing_ASP.NET_Core_MVC_Web_Applications:** Contains resources related to ASP.NET Core MVC development.
-- **ASP_Core_Web_API:** Includes resources related to ASP Core Web API development.
+- [Introduction_to_SQL_Programming] (Introduction to SQL Programming) -Contains resources related to SQL programming.
+- [Programming_in_C_Sharp] (Programming in C#): Includes resources related to C# programming.
+- [Programming_in_HTML5_JavaScript_CSS3] (Programming in HTML5, JavaScript & CSS3): Houses resources related to web development with HTML5, JavaScript, and CSS3.
+- [Developing_ASP.NET_Core_MVC_Web_Applications] (Developing ASP.NET Core MVC Web Applications): Contains resources related to ASP.NET Core MVC development.
+- [ASP_Core_Web_API] (ASP Core Web API): Includes resources related to ASP Core Web API development.
 
 Feel free to suggest any changes or additions to the folder structure that may improve organization and accessibility.
 
