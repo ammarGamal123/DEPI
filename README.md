@@ -52,9 +52,9 @@ Feel free to suggest any changes or additions to the folder structure that may i
 ## Introduction to SQL Programming
 
 This section provides resources for learning SQL programming:
-- [Installing SQL-Server] (https://www.youtube.com/watch?v=PkrfTxWhERM): This Working for me clearly.
-- [Reference for SQL-Server] (https://www.du.ac.in/du/uploads/departments/Operational%20Research/24042020_E-R%20Model.pdf): A reference to learn SQL-Server Step by Step.
-- [DEPI SQL-Server Code] (): Will be ready soon.
+- [Installing SQL-Server](https://www.youtube.com/watch?v=PkrfTxWhERM): This Working for me clearly.
+- [Reference for SQL-Server](https://www.du.ac.in/du/uploads/departments/Operational%20Research/24042020_E-R%20Model.pdf): A reference to learn SQL-Server Step by Step.
+- [DEPI SQL-Server Code](): Will be ready soon.
 - [SQL Tutorial by w3schools](https://www.w3schools.com/sql/): A comprehensive tutorial covering SQL basics and advanced topics.
 - [SQLZoo](https://sqlzoo.net/): Offers interactive SQL tutorials and exercises for beginners and advanced users.
 
