@@ -41,11 +41,15 @@ Familiarize yourself with the folder structure and the existing resources availa
 
 The repository is organized into the following structure:
 
-- [Introduction_to_SQL_Programming] (Introduction to SQL Programming) -Contains resources related to SQL programming.
-- [Programming_in_C_Sharp] (Programming in C#): Includes resources related to C# programming.
-- [Programming_in_HTML5_JavaScript_CSS3] (Programming in HTML5, JavaScript & CSS3): Houses resources related to web development with HTML5, JavaScript, and CSS3.
-- [Developing_ASP.NET_Core_MVC_Web_Applications] (Developing ASP.NET Core MVC Web Applications): Contains resources related to ASP.NET Core MVC development.
-- [ASP_Core_Web_API] (ASP Core Web API): Includes resources related to ASP Core Web API development.
+## Folder Structure
+
+The repository is organized into the following structure:
+
+- **Introduction_to_SQL_Programming:** Contains resources related to SQL programming.
+- **Programming_in_C_Sharp:** Includes resources related to C# programming.
+- **Programming_in_HTML5_JavaScript_CSS3:** Houses resources related to web development with HTML5, JavaScript, and CSS3.
+- **Developing_ASP.NET_Core_MVC_Web_Applications:** Contains resources related to ASP.NET Core MVC development.
+- **ASP_Core_Web_API:** Includes resources related to ASP Core Web API development.
 
 Feel free to suggest any changes or additions to the folder structure that may improve organization and accessibility.
 
