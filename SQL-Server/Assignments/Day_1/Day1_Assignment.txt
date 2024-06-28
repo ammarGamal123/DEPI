@@ -1,0 +1,29 @@
+.TASk : International school database system:
+
+A well-known international school seeks to develop a database for its system to ease the data handling process. You are asked to build an ERD and mapping based on the below information.
+
+    • Each student of the school has an application (only one) with a unique serial number, furthermore the division in which the student joins (example: American, National or British division).
+
+    • Each student is asked to fill in a medical report form with the commencement of joining the school. The medical report has data of weight, length and if the student suffering from any disease/s or has certain types of food allergy. There is no need for the student’s medical report if he/she left our school.
+
+
+    • Every student has his/her own medical report to help in tracking and caring.
+
+    • Data about the student are Serial Number, full name, age, gender, date of birth and a copy of completion certificate of his/her last academic year, besides; the school creates an email for each student which has to be added to his record.
+
+
+    • Some students may have siblings in our school; the system has to save this piece of information to consider sibling discount percent.
+
+    • The sibling discount recorded.
+
+    • The system is required to save information about parents. Parent ID, name, relationship (father/mother).
+
+    • On the other hand, the system has to keep track of teacher entity which has attributes; teacher ID, name, subject, phone number, email address and monthly salary.
+
+
+    • Also there is a senior teacher for each group of teachers which teach certain subject, acts as a subject head. 
+
+    • Each group of students attends in certain class. In addition, the class is dedicated only for them. The class has a unique name, location (building no, floor no), class capacity and attached schedule.
+
+
+    • The system has to save which teacher joins which class.
