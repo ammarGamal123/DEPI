@@ -32,7 +32,7 @@ insert TestTable
 
 select * from TestTable
 
-select Bid , room_view INTO TestTableV2
+select Bid , room_view INTO TestTableV3
 From Booking
 where Bid < 565 
 
@@ -94,6 +94,8 @@ values ('Shoes')
 
 
 select @@IDENTITY from Products
+
+
 
 CREATE SEQUENCE InvoiceSeq AS INT START WITH 1 INCREMENT BY 1;
 
