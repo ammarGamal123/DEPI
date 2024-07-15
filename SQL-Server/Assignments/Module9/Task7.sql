@@ -30,3 +30,4 @@ From Booking b
 inner join Rooms r 
 on r.id = b.Room_id
 group by Room_id
+having Count(*) >= 5;
